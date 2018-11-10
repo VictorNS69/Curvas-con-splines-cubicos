@@ -15,9 +15,9 @@ pantalla.
 
 ## Archivos
 
-[Guión de la práctica](/Guion\ Práctica\ Diseño\ de\ curvas.pdf)
+[Guión de la práctica](/"Guion Práctica Diseño de curvas.pdf")
 
-[Mi solución](/Hoja\ de\ entrega\ practica.pdf)
+[Mi solución](/"Hoja de entrega practica.pdf")
 
 Archivos .m : Funciones usadas en la elaboración de mi solución. 
 
