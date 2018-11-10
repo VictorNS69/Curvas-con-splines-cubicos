@@ -13,3 +13,11 @@ pantalla.
 [Víctor Nieves Sánchez](https://twitter.com/VictorNS69)
 
 
+## Archivos
+
+- [Guión de la práctica] (/Guion\ Práctica\ Diseño\ de\ curvas.pdf)
+
+- [Mi solución](/Hoja\ de\ entrega\ practica.pdf)
+
+- Archivos .m : Funciones usadas en la elaboración de mi solución. 
+
