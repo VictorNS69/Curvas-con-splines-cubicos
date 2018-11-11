@@ -19,5 +19,5 @@ pantalla.
 
 - [Mi solución](/Respuestas_Practica.pdf)
 
-- Archivos .m : Funciones usadas en la elaboración de mi solución. 
+- [Scripts](/scripts) : Funciones usadas en la elaboración de mi solución. 
 
